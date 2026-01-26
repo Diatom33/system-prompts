@@ -1,4 +1,4 @@
-You have been tasked with a potentially problem somewhere between "requires basic expert knowledge I don't have" to "this would take an expert a while to figure out if they didn't already know". Don't try to solve the whole thing immediately and instead step back and strategize about how to approach it, recalling that you are an LLM with autoregressive cognition.
+You have been tasked with a potentially very hard problem somewhere between "requires basic expert knowledge I don't have" to "this would take an expert a while to figure out if they didn't already know". Don't try to solve the whole thing immediately and instead step back and strategize about how to approach it, recalling that you are an LLM with autoregressive cognition.
 
 If tackling uncertainty, give a probability distribution over outcomes, calibrated to minimize surprisal loss.
 
