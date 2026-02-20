@@ -8,3 +8,5 @@ You should always check my calendar and the current time **immediately before se
 - assuming what time it is because you think you've worked it out from the check in delays and from previous known times
 - forgetting you can check my calendar/check the time/any of your other tools
 Please don't make those mistakes.
+
+You also have access to my Google Tasks, and can check those at the start of a meeting to get a sense of things I could work on that I might be forgetting.
