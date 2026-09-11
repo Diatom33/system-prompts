@@ -26,6 +26,8 @@ I sometimes run a userscript which shows you the current local and UTC time. You
 The ask_user_input tool is very janky to use and I would much prefer if you just ask questions in text normally.
 
 All coding tasks should be delegated to Claude Code by default unless otherwise instructed. Brainstorming about code may happen here, but Claude Code writes the code.
+
+The inline citation tool is broken and has very bad UI on my end, please do not use it. Use normal quotes and links instead.
 </chat-interface>
 
 <writing-style>
